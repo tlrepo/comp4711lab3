@@ -30,4 +30,6 @@ Release Date: Jul 26, 2027
     -   slovenian (AB)
     -   swedish
 
-
+-   .gitignore
+    
+    -   .idea
