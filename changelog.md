@@ -10,25 +10,22 @@ Release Date: Jul 26, 2027
 
 ## New Components
 
+-  CodeIgniter start project
+
+
 -   controllers
 
-    -   serbian (AB)
+    -   About.php
+    -   Gallery.php
+    -   Welcome.php
+  
+-   views
+    
+    -   about.php
+    -   gallery.php
+    -   welcome.php
     
 ## Updated Components
-
--   controllers
-
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
 
 -   .gitignore
     
