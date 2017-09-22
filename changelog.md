@@ -4,9 +4,9 @@ Team membership:  AB (Captain) & CD (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+## *Version 1.0*
 
-Release Date: Jul 26, 2027
+Release Date: Sept 21, 2017
 
 ## New Components
 
@@ -20,7 +20,7 @@ Release Date: Jul 26, 2027
     -   Welcome.php
   
 -   views
-    
+ 
     -   about.php
     -   gallery.php
     -   welcome.php
@@ -30,3 +30,33 @@ Release Date: Jul 26, 2027
 -   .gitignore
     
     -   .idea
+
+## *Version 2.0*
+
+Release Date: Sept 21, 2017
+
+## New Components
+
+-   controllers
+
+  
+-   views
+
+    -   template.php
+    
+## Updated Components
+
+-   controllers
+
+    -   About.php
+    -   Gallery.php
+    -   Welcome.php
+  
+-   views
+ 
+    -   about.php
+    -   gallery.php
+    -   welcome.php
+
+-   core
+    -   My_Controller.php
