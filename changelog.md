@@ -60,3 +60,39 @@ Release Date: Sept 21, 2017
 
 -   core
     -   My_Controller.php
+
+## *Version 3.0*
+
+Release Date: Sept 21, 2017
+
+## New Components
+    
+- models
+
+    -   Images.php
+        
+-   views
+
+    -   _cell.php
+    
+## Updated Components
+
+-   controllers
+
+    -   Gallery.php
+    -   Welcome.php
+  
+-   views
+ 
+    -   gallery.php
+    -   welcome.php
+
+-   config
+    
+    -   database.php
+    -   autoload.php
+    
+-   models
+
+    -   Images.php
+   
